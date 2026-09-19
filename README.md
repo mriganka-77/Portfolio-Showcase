@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-8ldilqs8c-mriganka-77s-projects.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://https://portfolio-xi-wine-10ul3mgtqv.vercel.app//)
 [![Three.js](https://img.shields.io/badge/Three.js-3D_Optics-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://portfolio-8ldilqs8c-mriganka-77s-projects.vercel.app/)
 [![GSAP](https://img.shields.io/badge/GSAP-Motion_Physics-88CE02?style=for-the-badge&logo=greensock&logoColor=black)](https://portfolio-8ldilqs8c-mriganka-77s-projects.vercel.app/)
 [![Vite](https://img.shields.io/badge/Vite-Bundler-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://portfolio-8ldilqs8c-mriganka-77s-projects.vercel.app/)
